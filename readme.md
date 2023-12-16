@@ -42,21 +42,21 @@
 
 
 ## jumping jacks
-önce düz ayakta duruyoruz, sonra kolları ve bacakları açar pozisyona geliyoruz ve tekrar düzeliyoruz. bunu tabii ki elimizden geldiğince hızlı şekilde yapıyoruz. ![enter image description here](https://raw.githubusercontent.com/mkaraca/documents/main/image/jumping-jacks.png?token=GHSAT0AAAAAACKQ7Y6PJQK77QTDXAYVC6LAZL5TFZQ)
+önce düz ayakta duruyoruz, sonra kolları ve bacakları açar pozisyona geliyoruz ve tekrar düzeliyoruz. bunu tabii ki elimizden geldiğince hızlı şekilde yapıyoruz. ![enter image description here](https://raw.githubusercontent.com/mkaraca/weekly-sports-program/main/image/jumping-jacks.png)
 
 
 ## mountain climbers
 şınav pozisyonunun biraz daha kolların ayaklara yakın olduğu bir haliyle durup olduğumuz yerde koşuyoruz. ne kadar hızlı o kadar iyi. 
-![enter image description here](https://raw.githubusercontent.com/mkaraca/documents/main/image/mountain-climbers.gif?token=GHSAT0AAAAAACKQ7Y6ONZJS62LGXKRC42PUZL5TGHQ)
+![enter image description here](https://raw.githubusercontent.com/mkaraca/weekly-sports-program/main/image/mountain-climbers.gif)
 
 ## burpee
 bir şınav çekiyoruz. şınav pozisyonundayken ayaklarımızı kollarımıza doğru sıçratarak çömelir pozisyona geliyoruz. ayağa kalkıp bir kere havaya zıplıyoruz ve tekrar çömelip, ayaklarımızı arkaya sıçratarak tekrar şınav pozisyonuna geliyoruz. bir şınav çekiyoruz.
-![enter image description here](https://raw.githubusercontent.com/mkaraca/documents/main/image/burpee.jpg?token=GHSAT0AAAAAACKQ7Y6O5FZTPFBMRQ2QZY6EZL5TEUA)
+![enter image description here](https://raw.githubusercontent.com/mkaraca/weekly-sports-program/main/image/burpee.jpg)
 
 
 ## jump squats
 olduğumuz yerde çömelip daha sonra ayağa kalkıp ellerimizi havaya kaldırarak zıplıyoruz. zıpladıktan sonra ayakta dik bir şekilde durmadan direk çömelme pozisyonuna gitmek önemli.
-![enter image description here](https://raw.githubusercontent.com/mkaraca/documents/main/image/jump-squats.jpg?token=GHSAT0AAAAAACKQ7Y6P5UCGVTVBVZDKO7PGZL5TGQQ)
+![enter image description here](https://raw.githubusercontent.com/mkaraca/weekly-sports-program/main/image/jump-squats.jpg)
 
 ## olduğun yerde koşma
 olduğumuz yerde dizlerimizi mümkün olduğunca gövdemize çekerek tam gaz depar atar gibi koşuyoruz.
@@ -66,7 +66,7 @@ olduğumuz yerde sürekli, dizlerimizi karnımıza çekecek şekilde zıplıyoru
 
 ## yanlara açmalı şınav
 şınav pozisyonunda duruyoruz. bir şınav çekiyoruz. sonra sol elimiz üzerinde durarak gövdemiz sağa bakacak şekilde yana dönüyor ve sağ kolumuzu havaya kaldırıyoruz. daha sonra tekrar şınav pozisyonuna dönüp aynısını diğer tarafa doğru yapıyoruz. tekrar şınav pozisyonuna dönerek bir şınav daha çekiyoruz ve devam ediyoruz. elimizden geldiği kadar hızlı bir şekilde tabii.
-![enter image description here](https://raw.githubusercontent.com/mkaraca/documents/main/image/yanlara-acmali-sinav.jpg?token=GHSAT0AAAAAACKQ7Y6ON4APVPETYNYHQZYCZL5TG5Q)
+![enter image description here](https://raw.githubusercontent.com/mkaraca/weekly-sports-program/main/image/yanlara-acmali-sinav.jpg)
 
 
  - nothing tastes better than looking good feels.
